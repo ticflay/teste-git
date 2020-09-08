@@ -9,6 +9,11 @@ public class CLASSEDETESTE {
 		
 		TESTE2 T = new TESTE2();
 		T.falar();
+		
+		TESTE2 V = new TESTE2();
+		V.falar();
+		
+		T.falar();
 
 	}
 
